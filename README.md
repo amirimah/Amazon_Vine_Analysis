@@ -13,5 +13,7 @@ There are a total of 136 Vine reviews and 18,019 non-Vine reviews.
 In summary, it can be seen that the percentage of vine reviews that received 5 stars were slightly more than non-Vine reviews (54.4% vs 47.1%). So it can be concluded that in the vine program there is a slight positivity bias.  
 One additional analysis could have been filtering ``["verified_purchase"]=="Y"`` to only study those who had made verified purchases.  
 
+
+## 
 **Contact:**  
 **Email: mahtab.2010am@gmail.com**
